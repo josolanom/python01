@@ -1,0 +1,7 @@
+{
+    "dbname": "bd_ventas01",
+    "user": "postgres",
+    "password": "CasaConde19+",
+    "host": "localhost",
+    "port": 5432
+}
